@@ -1,0 +1,3 @@
+== README
+
+A small app which renders RSS feed from the app le_frigo's main_index page
